@@ -65,6 +65,8 @@ class _BoothGeoLocationState extends State<BoothGeoLocation> {
           // _selectNewLocation();
         },
       );
+
+      _getUserLocation();
     } else {
       Position position = await _getUserLocation();
 
