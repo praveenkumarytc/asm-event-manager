@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1095955726795",
+    "project_id": "asm-international-6620c",
+    "storage_bucket": "asm-international-6620c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095955726795:android:8f3c31730405a61be8b64e",
+        "android_client_info": {
+          "package_name": "asm.smpl.event_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhfY0HcNjvVnE83K8SKp7Xz8tdae73TuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }, {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095955726795:android:8f3c31730405a61be8b64e",
+        "android_client_info": {
+          "package_name": "asm.smpl.event_app_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhfY0HcNjvVnE83K8SKp7Xz8tdae73TuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
