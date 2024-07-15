@@ -45,5 +45,24 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+
+		
+	<!-- Camera permission -->
+	<key>NSCameraUsageDescription</key>
+	<string>This app requires access to the camera to take photos and videos for your profile on ASM International</string>
+
+	<!-- File Manager permission -->
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app requires access to your photo library to select and upload images for your profile on ASM International</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>This app requires access to save images to your photo library.</string>
+
+	<!-- Location permission -->
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app requires access to your location to provide better services based on your current location.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>This app requires access to your location even when the app is not in use to track your movements and provide relevant notifications.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This app requires access to your location to provide better services based on your current location.</string>
 </dict>
 </plist>
